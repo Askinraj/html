@@ -1,0 +1,14 @@
+
+.newspaper {
+  column-count: 3;
+column-width: 300px;
+column-gap: 40px; 
+column-rule-style: solid;
+column-rule-color: lightblue;
+column-rule: 10px dotted rgb(95,10,20);
+}
+h1 {
+  column-span: all;/*not came we have to workout what problem*/
+}
+
+
